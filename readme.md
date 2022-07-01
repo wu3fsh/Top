@@ -1,0 +1,10 @@
+Token offering platform
+
+new:
+Owner address: 0xc862eBB2Edabae0349DDF99970E825F2D2ce969F
+ACDM token address: 0x8C4198145Cd82682d56b3a082538d39Ee2d5291A
+Top token address: 0xf4c9F477e6349E0f3A5De182D3338a8A9bcD9BEF
+Lp token address: 0x9a7C19985a5CF3B874118b39A587618Ee6805102
+Staking contract address: 0x6125babB0225e92237895617611b509dd23Ee680
+Dao contract address: 0xEF90dCd15FAC20Aa505F6Db81DE27EcA4d980339
+ACDM platrform contract address: 0x6c67fa59f2931d7b488E40B042766BeF5352Caf2
